@@ -13,7 +13,7 @@ I have uploaded all the resources, files, and links shared during the session. F
 
 ## 🌐 Connect with Me
 - **LinkedIn:** [Nahiyan Bin Noor](https://www.linkedin.com/in/nahiyan-bin-noor-0a2170158/)
-- **Personal Website:** [nahiyan140212.github.io](https://nahiyan140212.github.io/)
+- **Personal Website:** [My Portfolio](https://nahiyan140212.github.io/)
 
 ---
 
