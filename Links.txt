@@ -1,0 +1,5 @@
+sklearn: https://www.kaggle.com/code/rabianaz22/a-guide-to-machine-learning-with-scikit-learn/notebook
+TensorFlow: https://www.kaggle.com/code/ashishpatel26/tensorflow-for-beginner-to-advance
+Pytorch: https://www.kaggle.com/code/aravindanr22052001/pytorch-tutorial-beginner-to-advance
+Keras: https://www.kaggle.com/code/prashant111/keras-basics-for-beginners
+OpenCV: https://www.kaggle.com/code/talhabu/opencv-tutorial-from-basic-to-advanced
